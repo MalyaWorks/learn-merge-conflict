@@ -5,3 +5,5 @@ if (a) {
 } else {
     return true;
 }
+
+console.log(a);
